@@ -1,0 +1,1 @@
+respawnenabled=true;

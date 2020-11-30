@@ -1,0 +1,30 @@
+{
+    "id": "3543400c-c55c-443c-a3d7-6120d838c6a4",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3543400c-c55c-443c-a3d7-6120d838c6a4",
+    "children": [
+        "95e89138-2155-42de-9aeb-eb2f104a2229",
+        "7f51e379-57c0-48c4-a2be-f8920008c6a6",
+        "d6df49bc-31b1-4b2b-8b70-f815309f0fdd",
+        "9a4127c1-758c-4850-9a27-b90c192fa971",
+        "215cdf40-9ffb-4b8d-8d0c-5b0711cb989f",
+        "d91f99f4-ef3a-49f8-892d-22086601048b",
+        "6603b880-1967-4350-8ab7-4e740b167845",
+        "12a74331-20a5-4e7d-b18b-cdc9d0fa69a6",
+        "e7c082a2-882a-49e6-b7af-29e0b87bbdc0",
+        "b5198db1-d5c3-49f3-bea5-545d4441acff",
+        "05e67848-7a21-4d19-a144-0f9f8dd037e5",
+        "e5c3bc55-3fb0-446e-9b96-a3b999b7f824",
+        "c8f31138-74bf-4d3e-b8a1-139048c34731",
+        "841f5a87-4d05-4fbb-9647-cdf4ddc5306e",
+        "7db85604-135c-405a-a91e-695859fe2b3a",
+        "876fb8e2-6584-4df6-85d5-c13965d05098",
+        "7bd2edfc-b9b4-43b8-ac1a-67e13c3cbf8d",
+        "b9c25139-1d28-4990-a26a-ab275ac415a1"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Cutscenes",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

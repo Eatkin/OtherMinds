@@ -1,0 +1,1 @@
+firerate=75;

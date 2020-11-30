@@ -1,0 +1,3 @@
+/// @description
+
+fogalpha=0;

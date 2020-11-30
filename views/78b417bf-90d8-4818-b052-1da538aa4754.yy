@@ -1,0 +1,32 @@
+{
+    "id": "78b417bf-90d8-4818-b052-1da538aa4754",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "78b417bf-90d8-4818-b052-1da538aa4754",
+    "children": [
+        "0054a808-46d8-4859-895c-841e4aae4538",
+        "26cb2ba6-f8f5-4f55-a96d-a55177ce627e",
+        "6ad9a161-64ea-4648-80fa-af78e923789e",
+        "eaa330dd-ec0e-415b-8fd1-dd569b140d33",
+        "f2dcd4e1-0d68-494d-b948-43007b8bace2",
+        "2d0ef0b7-898a-4621-9cd3-5e9ece44eac6",
+        "d3c1618c-5d87-4cff-add2-eaa21c209b6a",
+        "20d6b2d1-66e1-4dae-a0f7-c282be323f22",
+        "ffc6d9b2-3b05-41bb-9daf-e1fe28ef441a",
+        "b4df09f3-3487-46bb-a397-e845e0984b5e",
+        "84fd3c6b-f17a-4297-811c-0cc3d2439337",
+        "a9a64456-1432-4c9d-95b1-c64cbe9ccf5f",
+        "8042f31c-aae4-442d-8e4d-4e41d18ac725",
+        "79644d56-4241-4097-8732-e345dca7d779",
+        "700ba990-60a1-45f4-b0de-71470d65b001",
+        "53310c89-65c3-4039-b7af-a11f16b33981",
+        "29fbe629-2889-4095-b4ac-76ec2f102d90",
+        "001c39e2-7dd9-48ab-92f3-d7d1d5799e44",
+        "294e5aa4-301f-43d5-9d04-f229905546ae",
+        "27e5f01e-203a-4322-b727-ade5870b0e70"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Door",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

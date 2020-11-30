@@ -1,0 +1,2 @@
+destination=rm_Edhallway;
+sprite_index=spr_hallwayexitdoor;

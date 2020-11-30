@@ -1,0 +1,26 @@
+Made with Gamemaker IDE Version: 2.2.5.481, Runtime version: 2.2.5.378
+This may not be compatible with version 2.3 or beyond, I haven't tried because I don't want everything to break!
+
+The assets and code within this project are for personal and educational use only.
+Usage for your own projects and redistribution is not permitted, with exceptions from this listed below.
+
+
+Exceptions from this are as follows:
+Certain UI elements were produced from kenney.nl's public domain assets.
+
+spr_finalBg1, spr_finalBg2, spr_finalBg3 and spr_finalBg4 is public domain: https://opengameart.org/content/parallax-tree-background
+
+spr_edSpaceZ2_tiles and associated assets are derived from a public domain tileset: https://adamatomic.itch.io/cavernas
+spr_edSpaceZ2_tiles is therefore licenced by CC0, i.e. it is also public domain
+
+spr_edSpaceZ1_tiles and associated assets are derived from a public domain tileset: https://opengameart.org/content/forgotten-dungeon
+spr_edSpaceZ1_tiles is therefore licenced by CC0, i.e. it is also public domain
+
+scr_instance_nth_nearest is from GMLScripts.com, view the licence here: https://www.gmlscripts.com/license.html
+
+scr_easeOutQuar, scr_easinInOutSin, scr_easInOutBack are public domain: https://github.com/krig/easing
+
+
+If you have any questions or want to make use of any code/assets within the project, please feel free to contact me. I like to share normally, but this is a paid-for project.
+ed@edwardatkin.co.uk
+Twitter: @eatkin

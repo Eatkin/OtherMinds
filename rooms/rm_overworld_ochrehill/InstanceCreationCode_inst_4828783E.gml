@@ -1,0 +1,1 @@
+destination=rm_overworld_edhouse;

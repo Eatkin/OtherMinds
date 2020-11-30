@@ -1,0 +1,1 @@
+transition_type=TRANSITION.FADE_OUT;

@@ -1,0 +1,2 @@
+destination=rm_Edkitchen;
+sprite_index=spr_housedoor_darker;

@@ -1,0 +1,30 @@
+{
+    "id": "7ff70b60-2c27-4c56-8a4b-e6877b2d7f2f",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "7ff70b60-2c27-4c56-8a4b-e6877b2d7f2f",
+    "children": [
+        "8a56eb7b-6b8a-4bd6-8021-543309620608",
+        "05ab29f4-e470-4726-abcf-09e662a39155",
+        "65fc7d4c-da7d-4321-8bf3-1e949a6978ca",
+        "38d3f0f3-8ab8-4970-9418-91178adabf62",
+        "a0b82d18-4c29-45c5-919d-40caa2b70d29",
+        "42601ca0-482f-42cd-950e-94528674fecf",
+        "0be25642-7fff-4377-92d3-1084a974908d",
+        "2592330a-0b43-4b06-b3b8-6addd59328da",
+        "227bacf1-3cb3-4efa-b5e2-c8e9f384f326",
+        "e465d75f-915f-4db3-ad80-997767c19b73",
+        "99be00ce-f979-43e4-937f-37851755fe4c",
+        "0491be9d-e6e2-4eda-913e-c40183e50c61",
+        "5df68443-ca2a-44a6-8889-3dac1d69281a",
+        "e4b34269-5b88-4161-acdd-0f7737fbd987",
+        "531a069c-5aed-4fc3-a3f4-f5f593b8c265",
+        "844c189f-f85a-404c-904d-ead48afefe43",
+        "ede96466-4ecf-4b16-a564-7b20b0570c62",
+        "4321047a-fdca-41f1-9a4f-81aeb0bbae49"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Mig",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

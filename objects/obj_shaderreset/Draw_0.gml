@@ -1,0 +1,3 @@
+/// @description
+
+shader_reset();

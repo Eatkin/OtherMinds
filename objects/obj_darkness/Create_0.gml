@@ -1,0 +1,3 @@
+/// @description
+
+darknessmultiplyer=1;

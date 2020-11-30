@@ -1,0 +1,1 @@
+scr_difficultyDestroy(DIFFICULTY.NORMAL);
