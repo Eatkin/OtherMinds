@@ -21,7 +21,8 @@
         "531a069c-5aed-4fc3-a3f4-f5f593b8c265",
         "844c189f-f85a-404c-904d-ead48afefe43",
         "ede96466-4ecf-4b16-a564-7b20b0570c62",
-        "4321047a-fdca-41f1-9a4f-81aeb0bbae49"
+        "4321047a-fdca-41f1-9a4f-81aeb0bbae49",
+        "cfc6d0ab-5ee1-488e-9372-83a890cbf2c9"
     ],
     "filterType": "GMSprite",
     "folderName": "Mig",

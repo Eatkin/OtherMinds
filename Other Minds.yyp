@@ -10855,6 +10855,14 @@
             }
         },
         {
+            "Key": "cfc6d0ab-5ee1-488e-9372-83a890cbf2c9",
+            "Value": {
+                "id": "f1df5fb4-b122-4fb3-b794-270207c75ff6",
+                "resourcePath": "sprites\\spr_Mig_defeated\\spr_Mig_defeated.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d01200a8-e721-4692-965f-cb182810632f",
             "Value": {
                 "id": "a58e42ea-082c-45f9-a8cd-a57ab7b8a3b8",
