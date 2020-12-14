@@ -1,6 +1,6 @@
 dir=-1;
 xbound=room_width*2;
-maxspeed=10;
+maxspeed=5;
 
 var diff=scr_return_difficulty();
 if (diff>=DIFFICULTY.HARD)

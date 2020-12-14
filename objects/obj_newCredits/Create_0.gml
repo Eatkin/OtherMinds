@@ -23,7 +23,7 @@ credits+="Additional scripts:\n\nGMLScripts.com\n\nKristoffer Gronlund\n\n";
 credits+="\n\n";
 credits+="Game Testers and Moral Support:\n\nAlbatross Wirehead\n\nBenjamin Fearn\n\nDean Davis\n\n";
 credits+="Derek \"Ancalabro\" Brown\n\nThe Electric Mindset\n\nEli Goldin\n\nFat Sam Hardwater\n\n";
-credits+="Invader Nym\n\nJeremy Scott\n\nMark Mauer\n\nMikaPyon\n\nRadiobush\n\nRichard Kerry\n\nSheeye\n\n";
+credits+="Invader Nym\n\nJeremy Scott\n\nJin9310\n\nMark Mauer\n\nMikaPyon\n\nRadiobush\n\nRichard Kerry\n\nSheeye\n\n";
 credits+="Sir Lion 174\n\nTommy van Son\n\nTrever Coleman\n\n";
 
 repeat(12)

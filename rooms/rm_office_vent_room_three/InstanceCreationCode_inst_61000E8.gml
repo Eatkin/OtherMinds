@@ -1,1 +1,0 @@
-scr_difficultyDestroy(DIFFICULTY.HARD);

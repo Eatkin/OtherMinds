@@ -16,7 +16,12 @@ random_set_seed(seed);*/
 
 //Some text stuff
 demonum=i+1;
-demototal=gridheight;
+demototal=gridheight-1;
+
+//Fix because whatever
+//I am the worst game developer ever
+if (demonum>7)
+	demonum-=1;
 
 
 inputsgrid=ds_grid_create(0,0);

@@ -3,6 +3,8 @@
 //Drop first two blocks
 instance_activate_object(inst_2BC4A946);
 instance_activate_object(inst_44BB2444);
+inst_2BC4A946.y-=600;
+inst_44BB2444.y-=600;
 
 with (obj_gauntlet_popoutspikes)
 	{

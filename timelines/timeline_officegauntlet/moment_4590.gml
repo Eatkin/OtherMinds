@@ -12,6 +12,7 @@ if (global.checkpoint[0]!=inst_694D051F)
 	}
 	
 //Deactivate all now-unused pushables
+/*
 with (parent_push)
 	if (x<3792)
-		instance_deactivate_object(id);
+		instance_deactivate_object(id);*/

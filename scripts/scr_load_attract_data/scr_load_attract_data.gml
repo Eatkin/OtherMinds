@@ -62,8 +62,11 @@ for (var i=0; i<numberofdemos; i+=1)	{
 }
 
 //Now generate a list of demos so they don't play multiple times in a row
+//Demo 7 is broken and I can't be bothered to fix it so I'm just removing it because if I don't stop working on this game it might literally kill me
 global.attractlist=ds_list_create();
-for (var i=0; i<numberofdemos; i+=1)
-	ds_list_add(global.attractlist,i);
+for (var i=0; i<numberofdemos; i+=1)	{
+	if (i!=7)
+		ds_list_add(global.attractlist,i);	
+}
 ds_list_shuffle(global.attractlist);
 global.attractindex=0;

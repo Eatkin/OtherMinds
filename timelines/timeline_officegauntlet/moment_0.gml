@@ -93,16 +93,6 @@ if (scr_event_check_complete(global.officeevents,OFFICEEVENTS.GAUNTLET_COMPLETE)
 		//Adjust laser position
 		inst_74E88097.x-=64;
 		
-		//Destroy that one snake block that spawns in the air
-		with (inst_294152C2)
-			{
-				for (var i=0; i<4; i+=1)
-					{
-						instance_destroy(blockinfo[i,0]);
-					}
-				instance_destroy();
-			}
-		
 		//Die
 		instance_destroy();
 	}
@@ -115,31 +105,5 @@ else
 					{
 						instance_destroy();
 					}
-			}
-			
-		//Destroy the floaty snake block
-		with (inst_ABC772E)
-			{
-				for (var i=0; i<4; i+=1)
-					{
-						instance_destroy(blockinfo[i,0]);
-					}
-				instance_destroy();
-			}
-		with (inst_7979272A)
-			{
-				for (var i=0; i<4; i+=1)
-					{
-						instance_destroy(blockinfo[i,0]);
-					}
-				instance_destroy();
-			}
-		with (inst_54B682B4)
-			{
-				for (var i=0; i<4; i+=1)
-					{
-						instance_destroy(blockinfo[i,0]);
-					}
-				instance_destroy();
 			}
 	}

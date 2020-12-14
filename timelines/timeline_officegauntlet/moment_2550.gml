@@ -9,6 +9,7 @@ if (player.x>=3088)
 	}
 
 //Deactivate all now-unused pushables
+/*
 with (parent_push)
 	if (x<2736)
-		instance_deactivate_object(id);
+		instance_deactivate_object(id);*/
