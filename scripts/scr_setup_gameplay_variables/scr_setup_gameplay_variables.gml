@@ -3,7 +3,7 @@
 
 //We don't use this stuff anymore
 //alarm[1]=1; //This is just to measure the frame rate
-global.currentversion=201015;		//YYMMDD that I write this
+global.currentversion=201215;		//YYMMDD that I write this
 global.roomspeed=60;
 //dt=delta_time;
 
